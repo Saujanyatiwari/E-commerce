@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    justify-content: centre;
+    box-sizing: content-box;
+    background-color: antiquewhite;
+    width: 5cm;
+    height: 14cm;
+    margin-top: 2cm;
+    padding-left: 4cm;
+    padding-right: 2cm;
+    border-radius: 0.5cm;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 3cm;
+    margin-right: 1cm;
+    text-align: right;
+}

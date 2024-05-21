@@ -38,9 +38,8 @@ button{
     display:block;
     margin: auto;
     background-color:white;
-    border-color: black;
-    border-width: 2px;
-    border-radius: px;
+    border:none;
+    border-radius: 5px;
     font-size:medium;
 }
 button:hover {
@@ -52,4 +51,9 @@ a{
 }
 a:hover{
     color:rgb(0, 0, 0);
+}
+
+.text{
+    border: none;
+    border-radius: 3px;
 }

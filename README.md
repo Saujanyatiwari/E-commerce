@@ -1,5 +1,4 @@
 # social-media-
 a basic project 
 
-color: #ffdf58
-#1a8dcf
+color used on sign-in and sign-up pages: #1a8dcf

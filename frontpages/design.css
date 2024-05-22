@@ -72,6 +72,22 @@ input[type=email] {
     height: 0.8cm;
 }
 
+input[type=text] {
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    width: 9cm;
+    height: 0.8cm;
+   
+}
+
+input[type=tel] {
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    width: 9cm;
+    height: 0.8cm;
+   
+}
+
 
 p{
     color:rgb(70, 70, 70);
@@ -79,4 +95,8 @@ p{
 
 a{
     color:#de057c;
+}
+
+.forgot{
+    text-align:right;
 }

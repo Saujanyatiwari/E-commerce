@@ -15,6 +15,8 @@ colors: #ffbee0
         #fde7e5
         #faecf0
 
+        #727171
+
 
         img{
     display: block;

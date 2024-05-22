@@ -1,0 +1,35 @@
+body{
+    background-color:#ffbee0;
+}
+main{
+    background-color: #fde7e5;
+    margin-top:2cm;
+    margin-bottom:2cm;
+    margin-left:12cm;
+    margin-right:12cm;
+    padding:1cm;
+    border-radius: 1cm;
+    box-shadow: 2px 3px;
+}
+/* img{
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 4px;
+    width: 50px;
+    margin: 0.8cm;
+} */
+img{
+    width: 35px;
+}
+button{
+    background-color: transparent;
+    border: 2px solid #000000;
+    border-radius: 2cm;
+    height: 60px;
+    padding: 4px;
+    width: 60px;
+    margin: 0.8cm;
+}
+button:hover{
+    background-color: rgb(225, 222, 222);
+}
